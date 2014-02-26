@@ -1,0 +1,9 @@
+c:\users\ibrahim.ersoy\documents\visual studio 2013\Projects\NodeJSRunner\NodeJSRunner\bin\Debug\NodeJSRunner.exe.config
+c:\users\ibrahim.ersoy\documents\visual studio 2013\Projects\NodeJSRunner\NodeJSRunner\bin\Debug\NodeJSRunner.exe
+c:\users\ibrahim.ersoy\documents\visual studio 2013\Projects\NodeJSRunner\NodeJSRunner\bin\Debug\NodeJSRunner.pdb
+c:\users\ibrahim.ersoy\documents\visual studio 2013\Projects\NodeJSRunner\NodeJSRunner\obj\Debug\NodeJSRunner.csprojResolveAssemblyReference.cache
+c:\users\ibrahim.ersoy\documents\visual studio 2013\Projects\NodeJSRunner\NodeJSRunner\obj\Debug\NodeJSRunner.Form1.resources
+c:\users\ibrahim.ersoy\documents\visual studio 2013\Projects\NodeJSRunner\NodeJSRunner\obj\Debug\NodeJSRunner.Properties.Resources.resources
+c:\users\ibrahim.ersoy\documents\visual studio 2013\Projects\NodeJSRunner\NodeJSRunner\obj\Debug\NodeJSRunner.csproj.GenerateResource.Cache
+c:\users\ibrahim.ersoy\documents\visual studio 2013\Projects\NodeJSRunner\NodeJSRunner\obj\Debug\NodeJSRunner.exe
+c:\users\ibrahim.ersoy\documents\visual studio 2013\Projects\NodeJSRunner\NodeJSRunner\obj\Debug\NodeJSRunner.pdb
